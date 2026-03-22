@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/retro"
+        android:text="RetroArch"/>
+
+    <Button
+        android:id="@+id/psp"
+        android:text="PSP (PPSSPP)"/>
+
+    <Button
+        android:id="@+id/gc"
+        android:text="GameCube (Dolphin)"/>
+
+</LinearLayout>
